@@ -19,13 +19,4 @@ public final class Constants {
     public final static int pilot = 0;
 
     public final static double deadBand = 0.033;
-
-    public class PIDConstants
-    {
-        public final static double kP = 0;
-        public final static double kI = 0;
-        public final static double kD = 0;
-        public final static double positionTolerance = 10;
-        public final static double velocityTolerance = 5;
-    }
 }
